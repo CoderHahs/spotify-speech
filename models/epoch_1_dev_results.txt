@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------
+Word Error Rate: 0.9894
+----------------------------------------------------------------------------------------------------
+Target    : increase volume
+Prediction: nrcr srsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsresem
+----------------------------------------------------------------------------------------------------
+Target    : reduce volume
+Prediction: rsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrseo
+----------------------------------------------------------------------------------------------------
+Target    : next song
+Prediction: netpa srsog
+----------------------------------------------------------------------------------------------------
+Target    : reduce volume
+Prediction: rsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrse o
+----------------------------------------------------------------------------------------------------
+Target    : reduce volume
+Prediction: rsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrsrce oi
+----------------------------------------------------------------------------------------------------
