@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------------
+Word Error Rate: 0.8493
+----------------------------------------------------------------------------------------------------
+Target    : play spotify
+Prediction: plauspouououogouotify
+----------------------------------------------------------------------------------------------------
+Target    : next song
+Prediction: next snugugugugugugugugugugugugugouoguougugugugugus
+----------------------------------------------------------------------------------------------------
+Target    : skip song
+Prediction: kip sngugugugugugugugugugugugugugugugugugugugugugugugu
+----------------------------------------------------------------------------------------------------
+Target    : reduce volume
+Prediction: red ce vugugugugugugugugugugugugugugugugugugugugugugugu
+----------------------------------------------------------------------------------------------------
+Target    : pause music
+Prediction: tauseougugugusic
+----------------------------------------------------------------------------------------------------
+Target    : increase volume
+Prediction: sncreauevgluguouyume
+----------------------------------------------------------------------------------------------------
+Target    : skip song
+Prediction: skip s gugugugugugugugugugugugugugu
+----------------------------------------------------------------------------------------------------
+Target    : play spotify
+Prediction: playusususpouououououotify
+----------------------------------------------------------------------------------------------------
+Target    : reduce volume
+Prediction: reduguougouguoguougugugugugugugugugume
+----------------------------------------------------------------------------------------------------
+Target    : next song
+Prediction: snep gugugugugugugugugugugugugugugugugugugu
+----------------------------------------------------------------------------------------------------
